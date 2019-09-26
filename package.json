@@ -1,0 +1,15 @@
+{
+  "name": "webteam-assist",
+  "version": "1.0.0",
+  "description": "Desktop application to help the webteam and newhires at Mavidea Technology Group",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Andre Ellis Jr",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^6.0.9",
+    "jquery": "^3.4.1"
+  }
+}
