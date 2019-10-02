@@ -14,7 +14,8 @@ app.on('ready', () => {
       webPreferences:
       {
         nodeIntegration: true
-      }
+      },
+      icon: 'assets/img/mavidea-logo-blue.svg'
     }
   )
 
