@@ -9,7 +9,7 @@
   "author": "Andre Ellis Jr",
   "license": "ISC",
   "dependencies": {
-    "electron": "^6.0.9",
+    "electron": "^9.4.0",
     "jquery": "^3.4.1"
   }
 }
